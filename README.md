@@ -24,12 +24,6 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  </a>
 </div>
 
 ###
@@ -41,13 +35,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/kronos251/kronos251/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/kronos251/kronos251/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/kronos251/kronos251/output/pacman-contribution-graph.svg">
-</picture>
-
-###
